@@ -1,0 +1,1068 @@
+{
+  "globalAvatar": "/uploads/avatar-1787564951688.jpg",
+  "hero": {
+    "name": "Mansi Shrivastav",
+    "roleTitle": "Product Manager & Ex-Android Developer",
+    "typewriterPhrases": [
+      "Performance-Focused Product Manager",
+      "Consumer Mobile Apps Specialist",
+      "Growth & Monetization Engineer",
+      "Data-Driven Problem Solver"
+    ],
+    "bio": "Building fast, scalable, and user-centric consumer mobile experiences with over 5+ years of combined tech expertise (2 years Android Development + 3 years Product Management). Passionate about transforming complex product problems into responsive, high-retention mobile applications while driving growth, analytics, and monetization excellence.",
+    "primaryCtaText": "View My Work",
+    "secondaryCtaText": "Download Resume",
+    "avatarUrl": "/uploads/avatar-1787564951688.jpg"
+  },
+  "about": {
+    "badgeText": "Get to Know Me",
+    "headline": "Building Scalable, Intuitive & User-Centric Consumer Products",
+    "narrativeParagraphs": [
+      "I am a Product Manager with an engineering foundation, possessing over 5 years of experience building consumer mobile applications. My expertise lies in transforming deep user pain points into seamless, high-retention product journeys while maintaining technical rigor, system performance, and cross-functional alignment.",
+      "Throughout my career, I have successfully driven the lifecycle of security utilities, file managers, and high-frequency utility apps — including Private Vault and ad-monetized ecosystem tools. Beyond core feature execution, I actively lead user research, define telemetry pipelines, architect monetization paywalls, and run continuous A/B experimentation to drive sustainable LTV.",
+      "Having spent 2 years as an Android Developer before transitioning into Product Management, I bridge the critical gap between user desires, business viability, and engineering execution. I partner closely with design and engineering teams to build products that solve real-world problems."
+    ],
+    "name": "Mansi Shrivastav",
+    "roleTitle": "Product Manager & Mobile Specialist",
+    "email": "manshishrivastav2000@gmail.com",
+    "phoneOrStatus": "+91 8445055267 / +91 8755991920",
+    "location": "Dehradun, India • Open to Relocation",
+    "avatarUrl": "/uploads/avatar-1787564951688.jpg",
+    "stats": [
+      {
+        "id": "stat-1",
+        "value": "10M+",
+        "label": "User Reach & Downloads",
+        "subtext": "Across consumer mobile portfolio"
+      },
+      {
+        "id": "stat-2",
+        "value": "5+",
+        "label": "Years Total Experience",
+        "subtext": "2 yrs Android Dev + 3 yrs PM"
+      },
+      {
+        "id": "stat-3",
+        "value": "98%",
+        "label": "Sprint & Delivery Success",
+        "subtext": "On-time milestone delivery"
+      }
+    ],
+    "competencies": [
+      "Product Discovery",
+      "User Journey Mapping",
+      "Ad Monetization",
+      "Android Architecture",
+      "Funnel Telemetry",
+      "A/B Experimentation"
+    ]
+  },
+  "resume": {
+    "headerTitle": "Resume",
+    "headerSubtitle": "Explore my career journey, product skills, telemetry expertise, and professional accomplishments built over 5+ years of mobile experience.",
+    "summaryTitle": "Professional Summary",
+    "summaryText": "Product Manager with 5+ years of combined experience across consumer mobile applications, product strategy, telemetry, and Android engineering (2 years Android Development + 3 years Product Management). Passionate about creating user-centric mobile products, driving sustainable monetization, and bridging design and engineering teams.",
+    "contactLocation": "Dehradun, India • Open to Relocation",
+    "contactEmail": "manshishrivastav2000@gmail.com",
+    "contactPhone": "+91 8445055267, +91 8755991920",
+    "contactLinkedin": "https://www.linkedin.com/in/mansi-shrivastav2000",
+    "contactGithub": "https://github.com/mansiverma14",
+    "experiences": [
+      {
+        "id": "exp-1",
+        "role": "Product Manager — Consumer Mobile Apps",
+        "company": "Mobile Products Ecosystem",
+        "period": "2023 — Present · Dehradun / Remote",
+        "location": "Dehradun, India",
+        "description": "Leading product strategy, user discovery, feature prioritization, and telemetry for utility and privacy-focused Android applications.",
+        "bullets": [
+          "Spearheaded end-to-end product discovery and PRD specifications for Private Vault, reducing user privacy anxiety while lifting 30-day retention by +18%.",
+          "Architected ad monetization frameworks with rewarded video mechanics and guarded frequency capping, generating $10.69 eCPM across 340K+ impressions.",
+          "Established core telemetry dashboards across Mixpanel & Firebase to track key activation funnels and drop-offs.",
+          "Partnered directly with engineering and UX design squads through bi-weekly agile sprints, ensuring 100% on-time release velocity."
+        ],
+        "tags": [
+          "Product Discovery",
+          "Ad Monetization",
+          "User Journeys",
+          "A/B Testing",
+          "Telemetry"
+        ]
+      },
+      {
+        "id": "exp-2",
+        "role": "Android Developer — Mobile Engineering",
+        "company": "Consumer Technology Group",
+        "period": "2021 — 2023 · Dehradun, India",
+        "location": "Dehradun, India",
+        "description": "Architected and shipped high-performance native Android applications with Kotlin, Java, and modern Jetpack architectural components.",
+        "bullets": [
+          "Engineered custom ExoPlayer 2.x pipelines with hardware acceleration, reducing media buffering latency by 35% on low-end devices.",
+          "Integrated on-device FFmpeg audio extraction engine with real-time waveform visualization for high-speed media processing.",
+          "Implemented Room SQLite databases, clean MVVM architecture, and Android Scoped Storage compliant file management systems.",
+          "Collaborated closely with Product Managers on user flow feasibility, memory optimization, and Play Store vitals (ANRs & crashes < 0.1%)."
+        ],
+        "tags": [
+          "Kotlin",
+          "Java",
+          "ExoPlayer",
+          "Room DB",
+          "FFmpeg",
+          "MVVM",
+          "Jetpack"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-1",
+        "degree": "Bachelor of Technology (B.Tech) — Computer Science & Engineering",
+        "institution": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)",
+        "period": "2017 — 2021",
+        "grade": "First Class with Distinction (8.4 CGPA)",
+        "description": "Specialized in Algorithms, Data Structures, Mobile Computing, Object-Oriented Software Engineering, and Database Management Systems.",
+        "highlights": [
+          "Published academic project on real-time mobile media compression algorithms.",
+          "Lead student organizer for technical hackathons and Android dev workshops."
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert-pac",
+        "title": "Product Analytics Micro-Cert. (PAC)",
+        "issuer": "Product School",
+        "year": "2024"
+      },
+      {
+        "id": "cert-genai-pm",
+        "title": "Generative AI for Product Managers",
+        "issuer": "DeepLearning.AI / AI Product Institute",
+        "year": "2024"
+      },
+      {
+        "id": "cert-sql-analysis",
+        "title": "SQL for Data Analysis",
+        "issuer": "Mode Analytics / DataCamp",
+        "year": "2023"
+      },
+      {
+        "id": "cert-becoming-pm",
+        "title": "Becoming a Product Manager: A Complete Guide",
+        "issuer": "Product Management Academy",
+        "year": "2023"
+      },
+      {
+        "id": "cert-1",
+        "title": "Product Management Fundamentals & Metrics",
+        "issuer": "Industry Product Institute",
+        "year": "2023"
+      },
+      {
+        "id": "cert-2",
+        "title": "Professional Scrum Master (PSM I)",
+        "issuer": "Scrum.org",
+        "year": "2022"
+      },
+      {
+        "id": "cert-3",
+        "title": "Mobile Telemetry & Product Analytics Masterclass",
+        "issuer": "Amplitude & Mixpanel Academy",
+        "year": "2023"
+      }
+    ]
+  },
+  "skills": {
+    "headerTitle": "Skills",
+    "headerSubtitle": "A comprehensive toolkit of modern product frameworks, monetization mechanics, mobile engineering, and data analytics tools I use to build scalable products.",
+    "cards": [
+      {
+        "id": "strategy",
+        "title": "Product Strategy & Discovery",
+        "iconName": "Palette",
+        "skills": "User Research, PRD Authoring, Product Roadmaps, Problem Discovery, Hypothesis Testing",
+        "highlight": "Strategic Thinking",
+        "description": "Translating ambiguous user problems into structured product roadmaps and clear engineering specs."
+      },
+      {
+        "id": "monetization",
+        "title": "Growth & Monetization",
+        "iconName": "Diamond",
+        "skills": "Paywalls & Tier Pricing, Ad Mediation (AdMob, AppLovin), In-App Purchases, ARPU & eCPM Optimization",
+        "highlight": "Revenue & LTV",
+        "description": "Balancing revenue generation through rewarded ads and subscription tiers without degrading retention."
+      },
+      {
+        "id": "ux",
+        "title": "Mobile UX & Wireframing",
+        "iconName": "LineChart",
+        "skills": "Figma, Information Architecture, Wireframing, User Flow Mapping, Mobile Ergonomics & Micro-Interactions",
+        "highlight": "User Empathy",
+        "description": "Designing intuitive, high-clarity mobile workflows with tactile feedback and zero-friction navigation."
+      },
+      {
+        "id": "analytics",
+        "title": "Analytics & Telemetry",
+        "iconName": "Megaphone",
+        "skills": "Mixpanel, Amplitude, SQL, Retention Cohorts, Funnel Drop-off Analysis, A/B Testing Experiments",
+        "highlight": "Data-Driven",
+        "description": "Instrumenting granular tracking events and analyzing cohort retention curves to guide decisions."
+      },
+      {
+        "id": "tech",
+        "title": "Technical Architecture",
+        "iconName": "Code2",
+        "skills": "Android (Kotlin, Java, Jetpack, MVVM), REST APIs, Firebase Auth, Room DB, System Design",
+        "highlight": "Engineering Foundation",
+        "description": "2 years of native Android engineering providing deep intuition for technical feasibility and constraints."
+      },
+      {
+        "id": "execution",
+        "title": "Execution & Leadership",
+        "iconName": "Video",
+        "skills": "Agile/Scrum, Sprint Planning, Cross-Functional Squad Leadership, Stakeholder Management, Release Velocity",
+        "highlight": "Team Impact",
+        "description": "Running high-velocity bi-weekly sprint cadences and driving cross-functional alignment."
+      }
+    ],
+    "calloutTitle": "Looking for someone who bridges Product, Growth & Engineering?",
+    "calloutSubtitle": "I combine hands-on technical architecture with user empathy and commercial acumen to build high-impact consumer mobile applications.",
+    "calloutButtonText": "Discuss Opportunities"
+  },
+  "contact": {
+    "headerTitle": "Let's Build Something Amazing Together",
+    "headerSubtitle": "I'm always open to discussing new opportunities, exciting product challenges, and collaborations. Whether you're hiring for a Product Manager role, need mobile monetization expertise, or want to discuss consumer apps—I'd love to hear from you.",
+    "infoTitle": "Contact Information",
+    "infoDescription": "Whether you're looking for a Product Manager, Mobile Specialist, or a dedicated technical lead, I'd be happy to discuss how my skills and experience can contribute to your team.",
+    "locationTitle": "Location",
+    "locationText": "Dehradun, Uttarakhand, India",
+    "locationSubtext": "Open to Relocation & Remote",
+    "email": "manshishrivastav2000@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/mansi-shrivastav2000",
+    "github": "https://github.com/mansiverma14",
+    "phone": "+91 8445055267 / +91 8755991920",
+    "statusText": "Available for New Roles & Product Collaborations"
+  },
+  "projects": [
+    {
+      "id": "vpn-transformation",
+      "name": "vpn-App- Improving Revenue through Product Analytics, Funnel Optimization & AdMob Mediation",
+      "category": "Product & Feature Work · Tools",
+      "role": "Product Manager",
+      "timeline": "Product Analytics, Funnel & Monetization Transformation",
+      "shortProblem": "Although the VPN had millions of active users, Revenue was continuously declining (10% D1 retention, 2.1% D7 retention, 0.9% purchase rate).",
+      "fullProblem": "Although the VPN application had millions of active users (147K successfully connected users), subscription revenue was continuously declining. Major issues included: low D1 retention (10%), D7 retention (2.1%), extremely low premium clicks (only 10.6K clicked premium), poor paywall conversion (only 3.4% of buy clicks purchased), weak ad viewer rate, incorrect mediation floors, and lack of country-specific monetization strategies.",
+      "solution": "Conducted deep diagnostic telemetry across Firebase, Google Play Console, GA4, BigQuery & SQL: (1) Funnel & Paywall overhaul fixing the 3.4% checkout conversion bottleneck with country-specific plans and trial benefits, (2) Country segmentation (High Revenue: UAE/Taiwan/US/UK/France/Korea; High Traffic: India/Indonesia/Canada) and LTO promotion (capturing 80% of purchases), (3) AdMob Mediation optimization lowering floors and splitting country waterfalls, (4) Home UX redesign with post-connection bottom sheet, and (5) 4 structured A/B experiments.",
+      "productAreas": [
+        "Product Analytics (Firebase, GA4, BigQuery, SQL)",
+        "Funnel Optimization (15,132 → 3,998 → 136)",
+        "Country Segmentation & LTO Packs (80% share)",
+        "AdMob Waterfall & Floor Optimization",
+        "Home UX Redesign (Post-Connection Bottom Sheet)",
+        "4 A/B Experimentation Frameworks"
+      ],
+      "tags": [
+        "Product Analytics",
+        "Firebase",
+        "BigQuery",
+        "SQL",
+        "AdMob",
+        "A/B Testing",
+        "Monetization"
+      ],
+      "featured": true,
+      "isFeatured": true,
+      "deepDiveRoute": "vpn-transformation",
+      "screenshots": [
+        {
+          "id": "shot-vpn-1",
+          "url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1200&auto=format&fit=crop",
+          "title": "VPN Product Case Study — End-to-End Product Analysis",
+          "caption": "Complete 15-section product teardown: Initial metrics table, 147K connected analysis, country-wise LTO pack purchases, AdMob waterfall optimization, and 4 A/B test experiments.",
+          "isCover": true
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "Buy Click Users",
+          "value": "3,998",
+          "subtitle": "Out of 15,132 visitors"
+        },
+        {
+          "label": "Purchases",
+          "value": "136",
+          "subtitle": "3.4% checkout conversion"
+        },
+        {
+          "label": "LTO Share",
+          "value": "~80%",
+          "subtitle": "Most popular pack"
+        },
+        {
+          "label": "Connected Users",
+          "value": "147K",
+          "subtitle": "Active utility base"
+        }
+      ]
+    },
+    {
+      "id": "fitlife-pro",
+      "name": "FitLife Pro (Health Journey Pro) — Full PRD, Open-Source Architecture & Prototype",
+      "category": "Health & Fitness · AI Vision Nutrition · Habit Gamification",
+      "role": "Lead Product Manager & System Architect",
+      "timeline": "In Development · Data Uploading Phase (Production Mid-Sep 2026)",
+      "shortProblem": ">80% of users churn from fitness apps within 14 days due to tedious manual calorie logging, fragmented utilities, and lack of gamified motivation.",
+      "fullProblem": "The digital fitness landscape is heavily fragmented. Users must juggle multiple specialized apps: one for counting steps, another with heavy paywalls for manual calorie tracking (MyFitnessPal), a third for home workout videos, and static charts that fail to motivate long-term habit formation. Furthermore, manual logging creates immense cognitive friction.",
+      "solution": "Designed and engineered FitLife Pro: a unified 0-to-1 mobile health ecosystem combining real-time activity metrics (steps, water plant growth visual, calories, heart rate), AI computer vision nutrition intelligence (Food101/MobileNet) with Open Food Facts 3M+ barcode database, 28-day structured workout challenges (wger exercise engine), and a rewarding RPG coin & streak economy (Habitica loops). Fully deployed live prototype on Replit.",
+      "productAreas": [
+        "0-to-1 Product Strategy",
+        "Full PRD & Feature Taxonomy",
+        "10-Project Open-Source System Architecture",
+        "Computer Vision Meal Classifier",
+        "Gamification & Coin Economy",
+        "Monetization & Risk Mitigation"
+      ],
+      "tags": [
+        "0-to-1 Product",
+        "PRD",
+        "FastAPI",
+        "HealthTech",
+        "AI Vision",
+        "Gamification",
+        "PostgreSQL"
+      ],
+      "featured": true,
+      "deepDiveRoute": "fitlife-pro",
+      "externalReferenceUrl": "https://health-journey-pro--rareprobplaycon.replit.app",
+      "screenshots": [
+        {
+          "id": "shot-fitlife-1",
+          "url": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=1200&auto=format&fit=crop",
+          "title": "FitLife Pro Activity Dashboard & Water Plant Visual",
+          "caption": "Production Android UI: Weekly 0/4 goal, 64% progress card, 4 Moves for Abs, steps radial, interactive plant hydration, and heart rate widget.",
+          "isCover": true
+        },
+        {
+          "id": "shot-fitlife-2",
+          "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1200&auto=format&fit=crop",
+          "title": "28-Day Abs Core Challenge & Live Workout Runner",
+          "caption": "Difficulty tiers (Sedentary/Active), week breakdown, +60 coin reward, active timer countdown, and exercise pose guidance.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "Target Production",
+          "value": "Mid-Sep 2026",
+          "subtitle": "Data uploading phase underway"
+        },
+        {
+          "label": "D30 Retention Target",
+          "value": ">52%",
+          "subtitle": "Powered by Habitica streak loops"
+        },
+        {
+          "label": "Workout Completion",
+          "value": ">78%",
+          "subtitle": "7-10 min bite-sized programs"
+        },
+        {
+          "label": "Open-Source Modules",
+          "value": "10 Projects",
+          "subtitle": "wger, Open Food Facts, Novu"
+        }
+      ]
+    },
+    {
+      "id": "instagram-feed",
+      "name": "Instagram — Rethinking the Feed Experience & Friend Connections",
+      "category": "Social Platform · Recommendation Engine · Product Strategy",
+      "role": "Lead Product Manager (Product Strategy & Discovery)",
+      "timeline": "Interactive Story-Driven Product Case Study",
+      "shortProblem": "Users open Instagram to catch up with friends, but get bombarded with algorithmic Reels, sponsored ads, and recommended creator content before seeing anyone they know.",
+      "fullProblem": "Instagram has evolved from a close-knit photo-sharing social network into an AI-powered entertainment and creator broadcast platform. While short-form video algorithms maximized passive watch time, user discovery revealed alarming second-order effects: 72% drop in personal friend post discoverability, rising social alienation, and an exodus of authentic social sharing into private direct messages (DMs).",
+      "solution": "Designed an interactive story-driven product solution balancing business ad retention with authentic social connection: (1) \"Friends Catch-Up Digest\" providing a 60-second interactive daily summary of close friend moments, (2) Seamless \"Dual Feed Mode\" (Friends & Family vs. Explore/Reels) with persistent gesture toggle, (3) Hybrid Closeness Algorithm injecting friend updates in the top 3 slots on launch, and (4) Frictionless 1-Tap DM Reaction Bridges.",
+      "productAreas": [
+        "Product Strategy & Discovery",
+        "Recommendation Algorithms",
+        "Dual-Feed Architecture",
+        "User Behavior Analytics",
+        "A/B Experimentation",
+        "Ad Load & Retention Guardrails"
+      ],
+      "tags": [
+        "Product Strategy",
+        "Social Graph",
+        "Recommendation Engine",
+        "UX Design",
+        "A/B Testing",
+        "Retention"
+      ],
+      "featured": true,
+      "deepDiveRoute": "instagram-feed",
+      "screenshots": [
+        {
+          "id": "shot-ig-1",
+          "url": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=1200&auto=format&fit=crop",
+          "title": "Instagram Friends Catch-Up & Dual Feed Concept",
+          "caption": "Story-driven product reimagining: Friends Catch-Up Digest, seamless Dual Feed mode toggle, and algorithmic closeness hybrid.",
+          "isCover": true
+        },
+        {
+          "id": "shot-ig-2",
+          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+          "title": "Business Goals vs User Goals Matrix",
+          "caption": "Balancing ad impressions and creator watch-time with meaningful D7 friend retention and DM conversation velocity.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "Friend Post Views",
+          "value": "+48%",
+          "subtitle": "During first 60s of session"
+        },
+        {
+          "label": "DM Conversations",
+          "value": "+34%",
+          "subtitle": "Sparked directly from feed"
+        },
+        {
+          "label": "D30 Friend Retention",
+          "value": "+21%",
+          "subtitle": "For casual social users"
+        },
+        {
+          "label": "Ad Load Impact",
+          "value": "0% Drop",
+          "subtitle": "Preserved monetization yield"
+        }
+      ]
+    },
+    {
+      "id": "rapido-commuter-pass",
+      "name": "Rapido Commuter Pass — Peak-Hour Supply & Commute Subscription",
+      "category": "Mobility · Two-Sided Marketplace · Subscriptions",
+      "role": "Mobile Product Manager (Android)",
+      "timeline": "12-Month Trajectory & Scale Strategy",
+      "shortProblem": "25% D7 churn for daily commuters, 20–30% peak-hour cancellations, and severe app-switching among price-sensitive riders.",
+      "fullProblem": "Rapido is India's leading bike-taxi and last-mile mobility platform (100M+ downloads, 10M daily rides across 100+ cities). However, availability consistently failed during the critical 8–10 AM and 6–8 PM commute rush (up to 32% no-driver fail rate). Daily commuters juggled 3+ apps, leading to broken habits and 25% D7 churn.",
+      "solution": "Engineered a two-sided marketplace subscription model: tiered commuter passes (Daily ₹89, Weekly ₹499, Monthly ₹1,799) with scheduled recurring slots, 10-minute driver arrival guarantee, and zero surge pricing — perfectly paired with a captain shift subscription providing completion bonuses and income certainty.",
+      "productAreas": [
+        "Two-Sided Marketplace",
+        "Subscription Pricing & Tiering",
+        "Shift Allocation & Supply Lock",
+        "Jetpack Compose UX",
+        "GrowthBook A/B Testing",
+        "BigQuery Cohort Analytics"
+      ],
+      "tags": [
+        "Mobility",
+        "Subscriptions",
+        "Marketplace",
+        "Kotlin",
+        "Firebase",
+        "BigQuery",
+        "Razorpay"
+      ],
+      "featured": true,
+      "deepDiveRoute": "rapido-commuter-pass",
+      "screenshots": [
+        {
+          "id": "shot-rapido-1",
+          "url": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?q=80&w=1200&auto=format&fit=crop",
+          "title": "Rapido Commuter Pass Map-First Flow",
+          "caption": "5 connected dark map-first screens: Ride selection upsell, Tiered Plans (Daily/Weekly/Monthly), Mon-Fri recurring schedule, and Guaranteed Confirmation.",
+          "isCover": true
+        },
+        {
+          "id": "shot-rapido-2",
+          "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+          "title": "Two-Sided Marketplace Retention Metrics",
+          "caption": "+28% DAU, +35% D7 retention (15% → 45%), -42% booking failures, and ₹280Cr projected annual revenue.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "D7 Retention",
+          "value": "+35%",
+          "subtitle": "15% → 45% (pass vs control)"
+        },
+        {
+          "label": "Booking Failures",
+          "value": "-42%",
+          "subtitle": "During 8-10 AM peak"
+        },
+        {
+          "label": "Projected Run-rate",
+          "value": "₹280 Cr",
+          "subtitle": "Y1 modeled revenue"
+        },
+        {
+          "label": "Driver Utilization",
+          "value": "+22%",
+          "subtitle": "60% captain retention"
+        }
+      ]
+    },
+    {
+      "id": "swiggy-instamart",
+      "name": "Swiggy Instamart — From Grocery Utility to Meal Decision Engine",
+      "category": "Product Strategy · Quick-Commerce · AI Personalization",
+      "role": "Product Manager (Product Strategy & UX)",
+      "timeline": "Strategic Discovery to Multi-Feature Implementation",
+      "shortProblem": "Quick-commerce solved 10-minute speed, but users only ordered reactively when running out of items, creating high churn and fragmented baskets.",
+      "fullProblem": "Swiggy Instamart mastered instant grocery delivery across India. However, retention was bottlenecked because shopping sessions were purely reactive. In-depth user discovery revealed the true customer pain point wasn't grocery delivery speed, but the daily cognitive friction of answering: \"What should I cook today?\"",
+      "solution": "Reframed Instamart into a household meal decision platform through 5 concrete product pillars: (1) Smart Meal-Based 3-Tap Ordering, (2) Predictive Pantry Refill for staples, (3) Automated 7-Day Personalized Meal Planner with 1-click consolidated cart, (4) Discounted Morning Scheduled Delivery (6-6:30 AM), and (5) Shoppable Reels-to-Cart cooking commerce.",
+      "productAreas": [
+        "Product Discovery & Reframing",
+        "Meal-Based Cart Architecture",
+        "Predictive Consumption Engine",
+        "Shoppable Video Commerce",
+        "Scheduled Dispatch Logistics",
+        "Prioritization (Impact × Feasibility)"
+      ],
+      "tags": [
+        "Product Strategy",
+        "Quick-Commerce",
+        "Personalization",
+        "UX Design",
+        "Notion",
+        "Figma"
+      ],
+      "featured": true,
+      "deepDiveRoute": "swiggy-instamart",
+      "screenshots": [
+        {
+          "id": "shot-swiggy-1",
+          "url": "https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1200&auto=format&fit=crop",
+          "title": "Swiggy Instamart Meal Decision Engine",
+          "caption": "Interactive \"Dinner Tonight\" vibe selection, 7-day meal planning calendar, morning scheduled savings slots, and 12-min Reels-to-Cart.",
+          "isCover": true
+        },
+        {
+          "id": "shot-swiggy-2",
+          "url": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=1200&auto=format&fit=crop",
+          "title": "User Personas & Strategic Prioritization",
+          "caption": "Impact × Feasibility matrix, Rahul/Priya/Ramesh/Ananya personas, and +35% order frequency projection.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "North Star Goal",
+          "value": "7+ Meals",
+          "subtitle": "Planned per user per week"
+        },
+        {
+          "label": "Order Frequency",
+          "value": "+35%",
+          "subtitle": "Shift from reactive to planned"
+        },
+        {
+          "label": "Avg Basket Size",
+          "value": "+22%",
+          "subtitle": "Meal bundle multi-item add"
+        },
+        {
+          "label": "Decision Time",
+          "value": "3 Taps",
+          "subtitle": "Recipe to fulfilled cart"
+        }
+      ]
+    },
+    {
+      "id": "ai-implementations",
+      "name": "AI Product Implementations & Collage GenAI",
+      "category": "Applied AI · GenAI Diffusion & Neural Models",
+      "role": "Lead Product Manager & AI Strategist",
+      "timeline": "2023 — 2024 · Flagship Implementation Suite",
+      "shortProblem": "Users suffered empty slot drop-offs in Collage Maker, review triage blindness, and complex desktop-only audio separation.",
+      "fullProblem": "While creating collages, users frequently abandoned drafts at 70% completion because they lacked 1-2 matching aesthetic filler photos or textures, while stock photo searching caused 45% bounce rates. Concurrently, mobile apps needed on-device neural stem splitting and automated LLM review triage.",
+      "solution": "Designed and shipped 5 production AI implementations: (1) Prompt-to-Grid Generative Image Studio in Collage Maker with 1.4s diffusion previews, (2) Review Pilot NLP sentiment triage, (3) Neural Demucs Audio Stem Separator in MP3 Converter, (4) LaMa Magic Eraser, and (5) On-Device Privacy Document PII Redactor.",
+      "productAreas": [
+        "Generative Diffusion (SDXL/Imagen)",
+        "Prompt Engineering & Guardrails",
+        "Edge Neural DSP",
+        "Token Economy & Monetization",
+        "Computer Vision OCR"
+      ],
+      "tags": [
+        "GenAI",
+        "Diffusion Models",
+        "LLMs",
+        "Neural Audio",
+        "Product Strategy"
+      ],
+      "featured": true,
+      "deepDiveRoute": "ai-implementations",
+      "screenshots": [
+        {
+          "id": "shot-ai-1",
+          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+          "title": "AI Image Generator in Collage Maker",
+          "caption": "Prompt-to-Grid generative diffusion studio with 1-tap style presets, aspect-ratio bounding box, and token economy.",
+          "isCover": true
+        },
+        {
+          "id": "shot-ai-2",
+          "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+          "title": "Review Pilot & Neural Audio Engine",
+          "caption": "Multi-lingual sentiment clustering, auto-reply generator, and 4-stem Demucs audio decomposition.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "Collage Completion",
+          "value": "+142%",
+          "subtitle": "Reduced empty slot churn"
+        },
+        {
+          "label": "Session Length",
+          "value": "+68%",
+          "subtitle": "Per active creator"
+        },
+        {
+          "label": "AI Adoption",
+          "value": "38%",
+          "subtitle": "Within 30d of launch"
+        },
+        {
+          "label": "Rewarded eCPM",
+          "value": "$4.82",
+          "subtitle": "On AI token unlock flows"
+        }
+      ]
+    },
+    {
+      "id": "review-pilot",
+      "name": "Review Pilot",
+      "category": "AI SaaS · Product Intelligence & Growth",
+      "role": "Lead Product Manager & System Architect",
+      "timeline": "2023 — 2024 · Discovery to Scale",
+      "shortProblem": "Businesses lose revenue and customer trust due to fragmented review channels, slow manual responses, and unaddressed negative feedback.",
+      "fullProblem": "Online reputation directly drives consumer trust and conversion (84% of buyers trust reviews as much as personal recommendations). However, businesses and app developers were losing 20-30% of potential conversions due to fragmented multi-channel review silos (Google, App Store, Play Store, Trustpilot), slow response SLAs (>48h avg turnaround), and an inability to cluster raw feedback into actionable product bugs and feature requests.",
+      "solution": "Designed and built Review Pilot — an end-to-end AI-powered Review Intelligence & Reputation Growth platform. Unified multi-channel review aggregation, automated contextual Smart Replies with brand-tone guardrails, extracted sentiment & topic root-cause clusters, and orchestrated automated review request sequences that lifted positive review volume by +42% while cutting response turnaround from 48 hours to 4.2 minutes.",
+      "productAreas": [
+        "Product Strategy & Discovery",
+        "LLM Prompt Engineering",
+        "Multi-Channel Ingestion",
+        "Sentiment NLP",
+        "A/B Experimentation",
+        "B2B SaaS Growth"
+      ],
+      "tags": [
+        "AI / GenAI",
+        "Product Intelligence",
+        "SaaS",
+        "NLP & Sentiment",
+        "Growth Flywheel"
+      ],
+      "featured": true,
+      "deepDiveRoute": "review-pilot",
+      "externalReferenceUrl": "https://aistudio.google.com/apps/c4520445-c664-452a-9e9b-54a323ba7fb9?showPreview=true&showAssistant=true&fullscreenApplet=true",
+      "screenshots": [
+        {
+          "id": "shot-rp-1",
+          "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+          "title": "Unified Review Inbox & AI Triage",
+          "caption": "Centralized multi-platform review feed with instant sentiment tagging, urgency scoring, and 1-click AI smart replies.",
+          "isCover": true
+        },
+        {
+          "id": "shot-rp-2",
+          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
+          "title": "Sentiment & Topic Root-Cause Analytics",
+          "caption": "NLP keyword clustering identifying root friction points across shipping, app performance, and billing.",
+          "isCover": false
+        },
+        {
+          "id": "shot-rp-3",
+          "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=1200&auto=format&fit=crop",
+          "title": "Automated Review Booster Campaign",
+          "caption": "Post-purchase and in-app milestone triggers orchestrating verified 5-star customer review collection.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "5-Star Review Growth",
+          "value": "+42%",
+          "subtitle": "YoY verified volume"
+        },
+        {
+          "label": "Response Turnaround",
+          "value": "4.2 min",
+          "subtitle": "Down from 48 hours"
+        },
+        {
+          "label": "SLA Compliance",
+          "value": "98.4%",
+          "subtitle": "Across all connected channels"
+        }
+      ]
+    },
+    {
+      "id": "private-vault",
+      "name": "Private Vault",
+      "category": "Privacy · Consumer Mobile",
+      "role": "Product Management",
+      "shortProblem": "Users need a simple, reassuring way to protect private photos, videos, and files without overwhelming friction.",
+      "fullProblem": "Mobile devices are constantly shared with friends or colleagues, causing anxiety over accidental exposure of personal photos and confidential files. Traditional locker tools feel intimidating and overly technical.",
+      "solution": "Designed a calm, trustworthy Private Space experience with clear protection status, category-based browsing (Photos, Videos, Other Files), cloud backup controls, and frictionless folder organization.",
+      "productAreas": [
+        "Product Discovery",
+        "Privacy UX",
+        "User Journey Mapping",
+        "Feature Architecture",
+        "Telemetry Framework"
+      ],
+      "tags": [
+        "Privacy",
+        "Consumer Mobile",
+        "Product Strategy",
+        "Android"
+      ],
+      "featured": true,
+      "deepDiveRoute": "private-vault",
+      "externalReferenceUrl": "https://private-vault-ui.ui-rareprob.chatgpt.site",
+      "screenshots": [
+        {
+          "id": "shot-1",
+          "url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1200&auto=format&fit=crop",
+          "title": "Private Vault Main Dashboard",
+          "caption": "Category overview for Photos, Videos, and Files with biometric lock status.",
+          "isCover": true
+        },
+        {
+          "id": "shot-2",
+          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+          "title": "Encrypted Cloud Storage View",
+          "caption": "Granular user controls for backup status and space utilization.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "30-Day Retention",
+          "value": "+18%",
+          "subtitle": "Vs baseline utility app"
+        },
+        {
+          "label": "User Satisfaction",
+          "value": "4.8★",
+          "subtitle": "Over 50K ratings"
+        }
+      ]
+    },
+    {
+      "id": "lite-video-player",
+      "name": "Lite Video Player — Preload-First Ads Mediation",
+      "category": "Performance · Ad Mediation · Monetization & Growth",
+      "role": "Lead Monetization & Ad Tech Product Manager",
+      "timeline": "Sep baseline → Dec (1 month post-launch results)",
+      "shortProblem": "Show-time load failures, low fill rates, and a ~40% offline usage ceiling capped ad revenue.",
+      "fullProblem": "Lite Video Player is an Android offline-first media player. Monetization suffered from severe show-time ad load failures (ads requested at moment of display frequently timed out or missed impressions), lack of an always-ready cached ad supply, single-network demand volatility, and an offline usage ceiling where ~40% of users played local media disconnected from ad networks.",
+      "solution": "Rebuilt the ad-loading model around a preload-first mediation pipeline with resilient fallback trees (Splash preload → backfill → high-intent action trigger → full-screen native fallback), multi-network auction mediation (AdMob, Vungle, Pangle), 4-unit native eCPM prioritized rotation, and offline-to-online product features (Shorts feed, online subtitles) that lifted monthly revenue by ~2.65x ($12,372 → $32,740) and interstitial revenue by +4.8x.",
+      "productAreas": [
+        "Preload Architecture",
+        "Waterfall & Bidding Mediation",
+        "eCPM Floor Optimization",
+        "Native Ad Fallbacks",
+        "Offline-to-Online Growth",
+        "BigQuery Telemetry"
+      ],
+      "tags": [
+        "Ad Mediation",
+        "AdMob",
+        "Firebase",
+        "BigQuery",
+        "Kotlin",
+        "eCPM Growth"
+      ],
+      "featured": true,
+      "deepDiveRoute": "lite-video-player",
+      "screenshots": [
+        {
+          "id": "shot-lvp-1",
+          "url": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?q=80&w=1200&auto=format&fit=crop",
+          "title": "Lite Video Player Preload-First Ads Mediation",
+          "caption": "Preload-first ad delivery pipeline, multi-network mediation, and 2.65x revenue transformation.",
+          "isCover": true
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "Revenue Growth",
+          "value": "~2.65x",
+          "subtitle": "$12,372 → $32,740 / mo"
+        },
+        {
+          "label": "Interstitial Rev",
+          "value": "+4.8x",
+          "subtitle": "$3,879 → $18,556"
+        },
+        {
+          "label": "Interstitial eCPM",
+          "value": "+2.1x",
+          "subtitle": "$15.17 → $31.25"
+        },
+        {
+          "label": "Fill Rate Lift",
+          "value": "+35%",
+          "subtitle": "Across all device tiers"
+        }
+      ]
+    },
+    {
+      "id": "hd-video-downloader",
+      "name": "HD Video Downloader — VidFetch",
+      "category": "Monetization · Consumer Mobile · Ad Strategy",
+      "role": "Ad Strategy & Funnel Optimization PM",
+      "timeline": "Sep → Jan · Diagnostic to Scale",
+      "shortProblem": "Low ad inventory utilization, inconsistent eCPM, and high onboarding drop-offs resulting in poor ad viewer rates.",
+      "fullProblem": "VidFetch: Downloader & Player is an Android utility app enabling users to download videos for offline viewing with media playback and file management. The app suffered from low ad inventory utilization, unstable waterfall eCPMs, heavy drop-offs during early onboarding exits, and ad delivery bottlenecks with poor show rates (<30%).",
+      "solution": "Engineered an end-to-end monetization transformation: diagnosed funnel bottlenecks using BigQuery, built tier-wise waterfall mediation with geo eCPM floors, rebuilt onboarding with an interactive sample video download flow, introduced a natural \"Thank You / Success\" interstitial & native ad moment, and deployed smart frequency triggers that skyrocketed interstitial earnings by +182% ($1,463 → $4,135) and ad viewer rate from 30.5% to 57.3%.",
+      "productAreas": [
+        "Funnel Diagnostics (BigQuery)",
+        "Waterfall Mediation & eCPM Floors",
+        "Onboarding Activation Design",
+        "Ad Placement & Frequency Logic",
+        "Show Rate Optimization",
+        "Geo-Tier Bidding"
+      ],
+      "tags": [
+        "Monetization",
+        "AdMob Mediation",
+        "BigQuery",
+        "Onboarding UX",
+        "Ad Strategy",
+        "Growth"
+      ],
+      "featured": true,
+      "deepDiveRoute": "hd-video-downloader",
+      "screenshots": [
+        {
+          "id": "shot-vidfetch-1",
+          "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+          "title": "VidFetch Downloader & Ad Engine",
+          "caption": "Central video detection feed, sample onboarding flow, and waterfall mediation architecture.",
+          "isCover": true
+        },
+        {
+          "id": "shot-vidfetch-2",
+          "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+          "title": "Monetization Funnel & Metric Lift",
+          "caption": "Telemetry breakdown showing +182% interstitial earnings and show rate increase to 41.4%.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "Interstitial Earnings",
+          "value": "+182%",
+          "subtitle": "$1,463 → $4,135"
+        },
+        {
+          "label": "Daily Ad Viewers",
+          "value": "+87%",
+          "subtitle": "5,697 → 9,232"
+        },
+        {
+          "label": "Ad Viewer Rate",
+          "value": "57.3%",
+          "subtitle": "Up from 30.5%"
+        }
+      ]
+    },
+    {
+      "id": "mp3-converter",
+      "name": "MP3 Converter — Retention & Monetization Suite",
+      "category": "Media · Audio Toolkit · Growth & Monetization",
+      "role": "Product Manager (Growth, UX & Monetization)",
+      "timeline": "Product Transformation & 90-Day Scale",
+      "shortProblem": "Single-purpose conversion utility suffered from 11% Day 1 retention, aggressive splash ads, fragmented editing flows, and low monetization efficiency.",
+      "fullProblem": "MP3 Converter allows users to convert videos into audio files and perform editing operations. Despite a broad feature set, low D1 retention (11%), poor feature discoverability, and intrusive first-session ads depressed user LTV and auction eCPMs ($1.12 interstitial baseline).",
+      "solution": "Led two dual-phase transformations: (1) Rebuilt user onboarding, redesigned home screen, unified 9 audio editing tools, and prioritized P0-P2 backlog; (2) Transformed app into a light media toolkit with post-processing \"waiting moment\" ad flows, boosting total revenue ~2.5X, ARPU ~3X, auction participation from 31% to 72%, and Interstitial eCPM by +110%.",
+      "productAreas": [
+        "Funnel & Cohort Diagnostics",
+        "Unified Audio Editing Workflow",
+        "Post-Processing Ad Strategy",
+        "Waterfall Mediation & eCPM Floors",
+        "Firebase A/B Experimentation",
+        "P0-P2 Roadmap Prioritization"
+      ],
+      "tags": [
+        "Product Strategy",
+        "Monetization",
+        "Retention & Growth",
+        "Firebase",
+        "BigQuery",
+        "A/B Testing",
+        "Audio Toolkit"
+      ],
+      "featured": true,
+      "deepDiveRoute": "mp3-converter",
+      "screenshots": [
+        {
+          "id": "shot-mp3-1",
+          "url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1200&auto=format&fit=crop",
+          "title": "MP3 Converter & Light Media Toolkit",
+          "caption": "Central video-to-audio converter, 9-tool audio suite, and post-processing ad waiting flow.",
+          "isCover": true
+        },
+        {
+          "id": "shot-mp3-2",
+          "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+          "title": "Monetization & Retention Telemetry",
+          "caption": "Revenue ~2.5X, ARPU ~3X, Auction participation 31% → 72%, and Interstitial eCPM +110%.",
+          "isCover": false
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "Total Revenue",
+          "value": "~2.5X",
+          "subtitle": "Post-transformation 90d"
+        },
+        {
+          "label": "ARPU Growth",
+          "value": "~3X",
+          "subtitle": "Average revenue per user"
+        },
+        {
+          "label": "Interstitial eCPM",
+          "value": "+110%",
+          "subtitle": "$1.12 → $2.36"
+        },
+        {
+          "label": "Auction Comp.",
+          "value": "72%",
+          "subtitle": "Up from 31% (2X)"
+        }
+      ]
+    },
+    {
+      "id": "file-manager",
+      "name": "File Manager & Cloud Storage",
+      "category": "Utility · Cloud & Storage",
+      "role": "Product Management & Engineering",
+      "shortProblem": "Mobile device storage fills up quickly, making local organization and cloud backup confusing for non-technical users.",
+      "fullProblem": "Users struggle with nested directory trees, redundant duplicate media, and fragmented local storage on Android devices.",
+      "solution": "Structured an intuitive visual storage breakdown with automated duplicate detection, 1-tap cache cleaning, and secure background cloud synchronization.",
+      "productAreas": [
+        "Storage UX",
+        "Background Synchronization",
+        "Android Scoped Storage",
+        "Performance"
+      ],
+      "tags": [
+        "Cloud",
+        "File Systems",
+        "Utility",
+        "Storage"
+      ],
+      "featured": true,
+      "screenshots": [
+        {
+          "id": "shot-file-1",
+          "url": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?q=80&w=1200&auto=format&fit=crop",
+          "title": "Visual Storage Breakdown",
+          "caption": "Storage meter with category categorization and 1-tap duplicate finder.",
+          "isCover": true
+        }
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?q=80&w=1200&auto=format&fit=crop",
+      "metrics": [
+        {
+          "label": "Cache Cleaned",
+          "value": "1.2 GB",
+          "subtitle": "Average per user per month"
+        },
+        {
+          "label": "Clean Success Rate",
+          "value": "99.4%",
+          "subtitle": "Zero file corruption"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "hero",
+      "label": "Hero & Bio Banner",
+      "subtitle": "Name, typewriter subtitle, portrait card, and fast action CTAs",
+      "visible": true,
+      "iconName": "Sparkles"
+    },
+    {
+      "id": "case-studies",
+      "label": "Featured Case Studies",
+      "subtitle": "Deep-dive interactive teardowns: VPN Monetization, FitLife Pro, Instagram, Swiggy, Rapido",
+      "visible": true,
+      "iconName": "TrendingUp"
+    },
+    {
+      "id": "projects",
+      "label": "Project Case Studies Grid",
+      "subtitle": "All portfolio projects with category filters, screenshots, and live links",
+      "visible": true,
+      "iconName": "Layers"
+    },
+    {
+      "id": "zero-to-production",
+      "label": "0-to-1 Interactive Apps Suite",
+      "subtitle": "7 functional mobile applications with live interactive playgrounds",
+      "visible": true,
+      "iconName": "Smartphone"
+    },
+    {
+      "id": "about",
+      "label": "About & Narrative",
+      "subtitle": "Professional journey, metric cards, core competencies chips",
+      "visible": true,
+      "iconName": "User"
+    },
+    {
+      "id": "experience",
+      "label": "Work Experiences",
+      "subtitle": "PM and native Android roles with bullet achievements and skill tags",
+      "visible": true,
+      "iconName": "Briefcase"
+    },
+    {
+      "id": "education",
+      "label": "Education & Certifications",
+      "subtitle": "Academic background, degree distinction, professional credentials",
+      "visible": true,
+      "iconName": "GraduationCap"
+    },
+    {
+      "id": "skills",
+      "label": "Skills & Bento Grid",
+      "subtitle": "Product strategy, monetization, tech stack, and user discovery cards",
+      "visible": true,
+      "iconName": "Palette"
+    },
+    {
+      "id": "contact",
+      "label": "Contact & Social Channels",
+      "subtitle": "Email, LinkedIn, GitHub, location, and availability badge",
+      "visible": true,
+      "iconName": "Mail"
+    }
+  ]
+}
